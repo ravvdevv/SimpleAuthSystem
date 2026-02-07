@@ -19,7 +19,7 @@ A minimal PHP authentication boilerplate template for admin login/logout systems
 2. Update database credentials in `config.php`
 3. Access `setup.php` in your browser
 4. Follow the step-by-step installation wizard
-5. Login with default credentials (admin/admin123)
+5. Login with default credentials (admin/password)
 
 ### Method 2: Manual Setup
 
